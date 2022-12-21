@@ -16,7 +16,7 @@ In resources_recipes, there are multiple recipes, each performing a particular t
 
 4) default.rb: The default.rb file includes the above 3 recipes which automates the process of calling the 3 recipes.
 
-5)reset_setting.rb: This recipe resets all the files, folders, users, groups and servers created by the default.rb recipe.
+5) reset_setting.rb: This recipe resets all the files, folders, users, groups and servers created by the default.rb recipe.
 
 6) stop-apache-server.rb: This recipe stops only the apache-server.
 
